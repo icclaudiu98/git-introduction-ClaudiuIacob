@@ -1,5 +1,4 @@
 Cloning into 'git-introduction-ClaudiuIacob'...
 remote: Enumerating objects: 3, done.
 remote: Counting objects: 100% (3/3), done.
-
-
+remote: Compressing objects: 100% (2/2), done.
